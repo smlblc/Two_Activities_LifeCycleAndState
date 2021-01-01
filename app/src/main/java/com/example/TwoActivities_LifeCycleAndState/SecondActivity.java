@@ -1,4 +1,4 @@
-package com.example.twoactivities;
+package com.example.TwoActivities_LifeCycleAndState;
 
 import androidx.appcompat.app.AppCompatActivity;
 
